@@ -8,7 +8,6 @@
       "id": 2,
       "name": "Aya Elsayed"
     },
-
     {
       "id": 3,
       "name": "Mina Adel"
@@ -36,10 +35,40 @@
       "amount": 2000
     },
     {
+      "id": 10,
+      "customer_id": 1,
+      "date": "2022-01-03",
+      "amount": 1500
+    },
+    {
+      "id": 11,
+      "customer_id": 1,
+      "date": "2022-01-04",
+      "amount": 1800
+    },
+    {
       "id": 3,
       "customer_id": 2,
       "date": "2022-01-01",
       "amount": 550
+    },
+    {
+      "id": 5,
+      "customer_id": 2,
+      "date": "2022-01-02",
+      "amount": 1300
+    },
+    {
+      "id": 12,
+      "customer_id": 2,
+      "date": "2022-01-03",
+      "amount": 700
+    },
+    {
+      "id": 13,
+      "customer_id": 2,
+      "date": "2022-01-04",
+      "amount": 900
     },
     {
       "id": 4,
@@ -48,11 +77,22 @@
       "amount": 500
     },
     {
-      "id": 5,
-
-      "customer_id": 2,
+      "id": 7,
+      "customer_id": 3,
       "date": "2022-01-02",
-      "amount": 1300
+      "amount": 1250
+    },
+    {
+      "id": 14,
+      "customer_id": 3,
+      "date": "2022-01-03",
+      "amount": 1000
+    },
+    {
+      "id": 15,
+      "customer_id": 3,
+      "date": "2022-01-04",
+      "amount": 1200
     },
     {
       "id": 6,
@@ -61,10 +101,22 @@
       "amount": 750
     },
     {
-      "id": 7,
-      "customer_id": 3,
+      "id": 16,
+      "customer_id": 4,
       "date": "2022-01-02",
-      "amount": 1250
+      "amount": 850
+    },
+    {
+      "id": 17,
+      "customer_id": 4,
+      "date": "2022-01-03",
+      "amount": 900
+    },
+    {
+      "id": 18,
+      "customer_id": 4,
+      "date": "2022-01-04",
+      "amount": 1100
     },
     {
       "id": 8,
@@ -77,6 +129,18 @@
       "customer_id": 5,
       "date": "2022-01-02",
       "amount": 875
+    },
+    {
+      "id": 19,
+      "customer_id": 5,
+      "date": "2022-01-03",
+      "amount": 1300
+    },
+    {
+      "id": 20,
+      "customer_id": 5,
+      "date": "2022-01-04",
+      "amount": 1500
     }
   ]
 }
